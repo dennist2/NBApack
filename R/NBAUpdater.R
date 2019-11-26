@@ -1,3 +1,8 @@
+#' NBA sraper
+#' 
+#' 
+#' 
+#' @export
 
 
 NBAupdater <- function(){

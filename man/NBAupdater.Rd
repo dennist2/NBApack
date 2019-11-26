@@ -6,6 +6,9 @@
 \usage{
 NBAupdater()
 }
+\arguments{
+\item{no}{mas}
+}
 \description{
-NBA sraper
+Use this to scrape NBA
 }

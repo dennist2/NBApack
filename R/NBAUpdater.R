@@ -1,7 +1,8 @@
 #' NBA sraper
 #' 
+#' Use this to scrape NBA
 #' 
-#' 
+#' @param no mas
 #' @export
 
 

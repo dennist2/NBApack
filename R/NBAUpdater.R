@@ -6,7 +6,7 @@
 #' @export
 
 
-NBAupdater <- function(){
+NBAUpdater <- function(){
 
 current_date <- as.character(Sys.Date())
 
